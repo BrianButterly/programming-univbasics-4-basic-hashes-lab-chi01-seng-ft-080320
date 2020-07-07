@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+ family = {"brian" => 34, "ashley" => 32}
 end
 
 def pioneer
