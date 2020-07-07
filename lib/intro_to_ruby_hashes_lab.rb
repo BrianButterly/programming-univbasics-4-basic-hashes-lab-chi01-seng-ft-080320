@@ -7,7 +7,6 @@ def my_hash
 end
 
 def pioneer
-  pioneer_hash = {:name 'Grace Hopper'}
 end
 
 
